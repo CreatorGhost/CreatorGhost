@@ -15,14 +15,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-
-### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/CreatorGhost/png/master/ml.png?token=ALFMIHM7NJ6EM7CKYPGF76K7EJQV4" />][DataSciencePlaylist]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][PythonPlaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/CreatorGhost/png/master/kisspng-python-logo-programmer-fierce-python-cliparts-5ab7bde206fb71.9462244415219911380286.png?token=ALFMIHL3SK7PRCMBZNE5VG27EJQ4C" />][PythonPlaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/CreatorGhost/png/master/kisspng-computer-programming-web-development-computer-icon-coding-5abfde8ec58278.143461221522523790809.png?token=ALFMIHOGZR7YJ3IWI4V6D4K7EJQUM" />][CompetitiveProgrammingPlaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/CreatorGhost/png/master/kisspng-hacker-hacking-nem-denial-of-service-attack-comput-yael-sagi-5b236ba8989d97.2947001815290479766251.png?token=ALFMIHIG3XCRNBYMSBMBTZK7EJRBK" />][CyberSecurityPlaylist]
 
 <br />
 <br />
