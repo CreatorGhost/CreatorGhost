@@ -1,5 +1,4 @@
-### Hi there, I'm Aditya - aka [CreatorGhost][website] 👋
-###  You may also know me by [Cyber Creed][youtube] 😉
+### Hi there, I'm Aditya - aka [CreatorGhost][website] 👋  You may also know me by [Cyber Creed][youtube] 😉
 
 ## I'm a Python Programmer,Data Scientist, Developer, and Teacher!
 - 🔭 I’m currently working on a [Complete Data Science Course]!
