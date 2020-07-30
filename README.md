@@ -69,3 +69,4 @@ Linux           ██████████████████░░░�
 [CompetitiveProgrammingPlaylist]: https://www.youtube.com/playlist?list=PL_fmjj92uLQW1T1iLeWRJfvC1dSMiGIUy
 [PythonPlaylist]: https://www.youtube.com/playlist?list=PL_fmjj92uLQUCidMh8OOE0UeLlS1xZmWD
 [CyberSecurityPlaylist]: https://www.youtube.com/playlist?list=PL_fmjj92uLQVZzapdvOwX5H9sDahaM06I
+[Complete Data Science Course]: https://www.youtube.com/playlist?list=PL_fmjj92uLQUbtOrOCRu8sISG7Ses3LNF
