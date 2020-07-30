@@ -13,4 +13,8 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+<<<<<<< HEAD
           feed_list: "https://medium.com/feed/@creatorghost"
+=======
+          feed_list: "https://medium.com/feed/@creatorghost"
+>>>>>>> 32d565ea8dff00e577c67e56d7850955d7c87bee
