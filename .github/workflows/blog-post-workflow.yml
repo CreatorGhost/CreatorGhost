@@ -3,6 +3,7 @@ on:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
+  workfow_dispatch:
 
 jobs:
   update-readme-with-blog:
