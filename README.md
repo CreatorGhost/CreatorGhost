@@ -28,17 +28,14 @@ Rest Api        ███████████░░░░░░░░░░�
 Cyber Security  ███████████████░░░░░░░░░░
 Linux           ██████████████████░░░░░░░     
 ```
+<!--END_SECTION:waka-->
 <br />
 
 ---
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Creating A Simple Neural Networks With Keras | Deep Learning Part 1](https://www.youtube.com/watch?v=IaU1IOugfh0)
-- [Installing  TensorFlow GPU on Windows | Latest Way | ALL Error Fixed !!](https://www.youtube.com/watch?v=fbvYugl73Xs)
-- [HackerRank 2D Array | Clearly Explained | Python](https://www.youtube.com/watch?v=SD83Tu8I-Pw)
-- [Dole Out Cadbury | TCS Codevita | Algo + Python Code](https://www.youtube.com/watch?v=o8tH0b3_D2Y)
-- [Permutation and Combination in Python | Python For Beginner](https://www.youtube.com/watch?v=vyZBAyy5HZw)
+
 <!-- YOUTUBE:END -->
 
 ---
