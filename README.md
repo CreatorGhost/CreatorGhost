@@ -18,16 +18,17 @@
 
 <br />
 <br />
-
-## 📊  This week I spent my time on
+## 📊 Technical Skills
 <!--START_SECTION:waka-->
-``` text
-<br />
-TypeScript   5 hrs 12 mins   ████████████░░░░░░░░░░░░░   <br />
-JavaScript   2 hrs 52 mins   ██████░░░░░░░░░░░░░░░░░░░   <br />
-JSON         1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   <br /> 
-Other        54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   <br /> 
-Markdown     14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   <br />
+```text
+
+Data Science    ██████████████████░░░░░░░ 
+Python          ████████████████████░░░░░   
+SQL             ███████████████░░░░░░░░░░    
+Flask           ███████████░░░░░░░░░░░░░░    
+Rest Api        ███████████░░░░░░░░░░░░░░    
+Cyber Security  ███████████████░░░░░░░░░░
+Linux           ██████████████████░░░░░░░     
 ```
 <!--END_SECTION:waka-->
 <br />
@@ -43,11 +44,6 @@ Markdown     14 mins         ░░░░░░░░░░░░░░░░░
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [All About Imbalanced Dataset And How To Fix Them](https://medium.com/analytics-vidhya/all-about-imbalanced-dataset-and-how-to-fix-them-a0565e0e9d2e?source=rss-71257e3bbfe------2)
-- [Create your first ML Web App with Flask](https://medium.com/analytics-vidhya/create-your-first-ml-web-app-with-flask-ed0c4bb54312?source=rss-71257e3bbfe------2)
-- [Create your first ML Web App with Flask](https://medium.com/@creatorghost/create-your-first-ml-web-app-with-flask-91600efb252d?source=rss-71257e3bbfe------2)
-- [Regular Expression Complete Guide](https://medium.com/analytics-vidhya/regular-expression-complete-guide-9ebb35d7efc6?source=rss-71257e3bbfe------2)
-- [This Is Why Python Is So Popular](https://medium.com/@creatorghost/this-is-why-python-is-so-popular-70e82eef2951?source=rss-71257e3bbfe------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
