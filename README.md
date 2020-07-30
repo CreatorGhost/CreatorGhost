@@ -18,7 +18,7 @@
 
 <br />
 
-📊 **Technical Skills**
+## 📊 Technical Skills
 <!--START_SECTION:waka-->
 ```text
 Data Science    ██████████████████░░░░░░░ 
