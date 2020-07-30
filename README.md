@@ -18,6 +18,8 @@
 
 <br />
 
+---
+
 ## 📊 Technical Skills
 <!--START_SECTION:waka-->
 ```text
