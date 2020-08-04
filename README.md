@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How Does The  Perceptron  And MultiLayer Perceptron Works In Deep Learning | Clearly Explained](https://www.youtube.com/watch?v=z7p4H-x7XY4)
 - [Why we need Deep Learning ? | When to use Deep Learning](https://www.youtube.com/watch?v=PuCSzTqEzO0)
 - [How To Create A GitHub Profile Page With ReadMe | GitHub Update | Job Ready Portfolio](https://www.youtube.com/watch?v=VFk7BC559Bg)
 - [Creating A Simple Neural Networks With Keras | Deep Learning Part 1](https://www.youtube.com/watch?v=IaU1IOugfh0)
 - [Installing  TensorFlow GPU on Windows | Latest Way | ALL Error Fixed !!](https://www.youtube.com/watch?v=fbvYugl73Xs)
-- [HackerRank 2D Array | Clearly Explained | Python](https://www.youtube.com/watch?v=SD83Tu8I-Pw)
 <!-- YOUTUBE:END -->
 
 ---
