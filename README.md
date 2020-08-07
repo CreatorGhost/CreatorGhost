@@ -49,7 +49,7 @@ Linux           ██████████████████░░░�
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Steps You Should Follow TO Successfully Train MLP](https://medium.com/@creatorghost/steps-you-should-follow-to-successfully-train-mlp-40a98c3b5bb3?source=rss-71257e3bbfe------2)
+- [Steps You Should Follow TO Successfully Train MLP](https://medium.com/analytics-vidhya/steps-you-should-follow-to-successfully-train-mlp-40a98c3b5bb3?source=rss-71257e3bbfe------2)
 - [All About Imbalanced Dataset And How To Fix Them](https://medium.com/analytics-vidhya/all-about-imbalanced-dataset-and-how-to-fix-them-a0565e0e9d2e?source=rss-71257e3bbfe------2)
 - [Create your first ML Web App with Flask](https://medium.com/analytics-vidhya/create-your-first-ml-web-app-with-flask-ed0c4bb54312?source=rss-71257e3bbfe------2)
 - [Regular Expression Complete Guide](https://medium.com/analytics-vidhya/regular-expression-complete-guide-9ebb35d7efc6?source=rss-71257e3bbfe------2)
