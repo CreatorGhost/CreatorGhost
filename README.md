@@ -1,5 +1,5 @@
 ### Hi there, I'm Aditya - aka [CreatorGhost][website] 👋 | You may also know me by [Cyber Creed][youtube] 😉
-
+[![HitCount](http://hits.dwyl.com/Creatorghost/{project}.svg)](http://hits.dwyl.com/Creatorghost/{project})
 ## I'm a Python Programmer,Data Scientist, Developer, and Teacher!
 - 🔭 I’m currently working on a [Complete Data Science Course]!
 - 🌱 I’m currently learning everything 🤣
