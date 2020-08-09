@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Product of Array Except Self](https://www.youtube.com/watch?v=wV0SvzPH3KQ)
 - [Segregate 0s and 1s in an array | Algorithm + Code | Python](https://www.youtube.com/watch?v=10R7XrWaUTs)
 - [How Does The  Perceptron  And MultiLayer Perceptron Works In Deep Learning | Clearly Explained](https://www.youtube.com/watch?v=z7p4H-x7XY4)
 - [Why we need Deep Learning ? | When to use Deep Learning](https://www.youtube.com/watch?v=PuCSzTqEzO0)
 - [How To Create A GitHub Profile Page With ReadMe | GitHub Update | Job Ready Portfolio](https://www.youtube.com/watch?v=VFk7BC559Bg)
-- [Creating A Simple Neural Networks With Keras | Deep Learning Part 1](https://www.youtube.com/watch?v=IaU1IOugfh0)
 <!-- YOUTUBE:END -->
 
 ---
