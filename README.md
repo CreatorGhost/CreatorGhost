@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Mean, Median And Mode Explained Easily Using Real Example | Data Science [Part 1]](https://www.youtube.com/watch?v=ghhOsjLiAaA)
 - [Two Sum Solution Explained 3 Approach  |  Interview Preparation Course [Part 9]](https://www.youtube.com/watch?v=JpAeZZdIjZM)
 - [Arrays in Data Structure Complexity Analysis Explained | Interview Preparation Course [Part 8]](https://www.youtube.com/watch?v=4gWYC5_ijJ4)
 - [Space complexity Explained In Detail |  Interview Preparation Course [Part 7]](https://www.youtube.com/watch?v=zNgjXilGpIo)
 - [Logarithms In Time Complexities | Clearly Explained | Interview Preparation Course  [Part 6]](https://www.youtube.com/watch?v=LMcSzBtr_mw)
-- [Introduction to Big O Notation and Time Complexity  |Interview Preparation Course [Part 5]](https://www.youtube.com/watch?v=Ec9STCMU0ls)
 <!-- YOUTUBE:END -->
 
 ---
