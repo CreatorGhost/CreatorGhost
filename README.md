@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Create a Personal Portfolio website using Html, CSS, Python,Javascript | Step By Step](https://www.youtube.com/watch?v=Zq7TQTabG34)
 - [Data Science - PERCENTILES and QUANTILES Clearly Explained](https://www.youtube.com/watch?v=M-t_yHSMFno)
 - [Minimum Absolute Difference Easily Explained | | Interview Preparation Course [Part 10]](https://www.youtube.com/watch?v=S1wwo4qYAfM)
 - [Variance and Standard Deviation  Explained Easily Using Real Example | Data Science [Part 2]](https://www.youtube.com/watch?v=LTCpboXPt2U)
 - [Mean, Median And Mode Explained Easily Using Real Example | Data Science [Part 1]](https://www.youtube.com/watch?v=ghhOsjLiAaA)
-- [Two Sum Solution Explained 3 Approach  |  Interview Preparation Course [Part 9]](https://www.youtube.com/watch?v=JpAeZZdIjZM)
 <!-- YOUTUBE:END -->
 
 ---
