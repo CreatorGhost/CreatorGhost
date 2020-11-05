@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Write a Professional Resume |For Freshers  With Template And Complete Introduction](https://www.youtube.com/watch?v=cJkJRRMEPCo)
 - [Paytm Internship for college students and Professionals | Anyone can Apply](https://www.youtube.com/watch?v=6fawRPICQAE)
 - [Most Frequent  DBMS Interview Questions for Interviews | Clearly Explained](https://www.youtube.com/watch?v=IGiTfulA0BI)
 - [Cognizant Automata Fix All Question Asked in Real Test in 2021 | Must Watch](https://www.youtube.com/watch?v=LMju9g0ufOU)
 - [JavaScript Solution | HackerRank |Certificate Free](https://www.youtube.com/watch?v=FaDEcRo3NFM)
-- [Create a Personal Portfolio website using Html, CSS, Python,Javascript | Step By Step](https://www.youtube.com/watch?v=Zq7TQTabG34)
 <!-- YOUTUBE:END -->
 
 ---
