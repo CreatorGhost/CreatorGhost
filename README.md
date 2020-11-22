@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [{Latest Way}Create Kali Linux USB Persistence &&  Encrypted Persistence | Easiest Way](https://www.youtube.com/watch?v=n73XCpsVtwc)
 - [Sending Spoof emails using any EMAIL ADDRESS Using Python |Code Provided | Super Easy](https://www.youtube.com/watch?v=BTiLjdh1O_0)
 - [Most frequently asked Data Structure Interview Questions and Answers | For All Service Based Company](https://www.youtube.com/watch?v=8Ki-MHru3qI)
 - [How to Write a Professional Resume |For Freshers  With Template And Complete Introduction](https://www.youtube.com/watch?v=cJkJRRMEPCo)
 - [Paytm Internship for college students and Professionals | Anyone can Apply](https://www.youtube.com/watch?v=6fawRPICQAE)
-- [Most Frequent  DBMS Interview Questions for Interviews | Clearly Explained](https://www.youtube.com/watch?v=IGiTfulA0BI)
 <!-- YOUTUBE:END -->
 
 ---
