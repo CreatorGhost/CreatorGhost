@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Why and How to learn Linux in most optimal way](https://www.youtube.com/watch?v=d465rKgE2P0)
 - [Cognizant Genc interview Experience and Questions By Selected Candidate | Preparation Strategy](https://www.youtube.com/watch?v=Hii3OuLHOjw)
 - [Cognizant Genc interview(2021) EXPERIENCE By Selected Candidate | Preparation Strategy](https://www.youtube.com/watch?v=IkMy0uHWBEM)
 - [LeetCode 3Sum Solution Clearly Explained - Python](https://www.youtube.com/watch?v=t8DRNYBQWKk)
 - [Best Way To Improve your coding skills | Best Websites to practice coding](https://www.youtube.com/watch?v=Vk9_RlFa_EM)
-- [{Latest Way}Create Kali Linux USB Persistence &&  Encrypted Persistence | Easiest Way](https://www.youtube.com/watch?v=n73XCpsVtwc)
 <!-- YOUTUBE:END -->
 
 ---
