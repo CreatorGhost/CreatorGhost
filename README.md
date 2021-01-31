@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Advanced Keylogger - Send Screenshot By Mail | Learn to send attachment  By Mail](https://www.youtube.com/watch?v=CvSFfStZ9oc)
 - [How Phishing Attacks are scary !! Lets do it.](https://www.youtube.com/watch?v=n4OQFeb5OUY)
 - [[Latest] Create A Powerful Keylogger with Python | Get Text , Image and Send Mail | Explained](https://www.youtube.com/watch?v=-Lx10lYCx-M)
 - [Why and How to learn Linux in most optimal way](https://www.youtube.com/watch?v=d465rKgE2P0)
 - [Cognizant Genc interview Experience and Questions By Selected Candidate | Preparation Strategy](https://www.youtube.com/watch?v=Hii3OuLHOjw)
-- [Cognizant Genc interview(2021) EXPERIENCE By Selected Candidate | Preparation Strategy](https://www.youtube.com/watch?v=IkMy0uHWBEM)
 <!-- YOUTUBE:END -->
 
 ---
