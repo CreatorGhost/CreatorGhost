@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Installing  Anaconda Python, Jupyter Notebook and Spyder || Latest and the easiest way](https://www.youtube.com/watch?v=wMeROKnUBG8)
 - [Complete Web Scraping Tutorial with Python| Request & BeautifulSoup | For Beginners](https://www.youtube.com/watch?v=q2Dl-AG2COk)
 - [Advanced Keylogger - Send Screenshot By Mail | Learn to send attachment  By Mail](https://www.youtube.com/watch?v=CvSFfStZ9oc)
 - [How Phishing Attacks are scary !! Lets do it.](https://www.youtube.com/watch?v=n4OQFeb5OUY)
 - [[Latest] Create A Powerful Keylogger with Python | Get Text , Image and Send Mail | Explained](https://www.youtube.com/watch?v=-Lx10lYCx-M)
-- [Why and How to learn Linux in most optimal way](https://www.youtube.com/watch?v=d465rKgE2P0)
 <!-- YOUTUBE:END -->
 
 ---
