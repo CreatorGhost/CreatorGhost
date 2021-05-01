@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[Latest] Best websites to learn Cyber Security and Ethical Hacking for free | Best Free Resources](https://www.youtube.com/watch?v=E6_RydEvbxU)
 - [TCS Inframind  Interview Experience | All Questions With Answers | [ Ninja And Digital ]](https://www.youtube.com/watch?v=tOhYr-IzoB4)
 - [Complete Machine Learning Project Explained | Quora Questions pair prediction](https://www.youtube.com/watch?v=aWUEjYLmsfY)
 - [TCS Inframind Season 4 | Contest With Code Explanation](https://www.youtube.com/watch?v=aSOlR5QYiiI)
 - [STRING COMPRESSION Algo + Code explained](https://www.youtube.com/watch?v=kOwRDMpQG1o)
-- [Installing Nvida Drivers and TensorFlow GPU on Linux(Debian and Ubuntu) | Latest Working Way](https://www.youtube.com/watch?v=TBwd2k1OUNA)
 <!-- YOUTUBE:END -->
 
 ---
