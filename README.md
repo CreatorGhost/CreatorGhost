@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Best Programming Language For Placements |Python,Java,C/C++ ??@Clément Mihailescu](https://www.youtube.com/watch?v=U_B8quod7_Q)
 - [[Latest] Best websites to learn Cyber Security and Ethical Hacking for free | Best Free Resources](https://www.youtube.com/watch?v=E6_RydEvbxU)
 - [TCS Inframind  Interview Experience | All Questions With Answers | [ Ninja And Digital ]](https://www.youtube.com/watch?v=tOhYr-IzoB4)
 - [Complete Machine Learning Project Explained | Quora Questions pair prediction](https://www.youtube.com/watch?v=aWUEjYLmsfY)
 - [TCS Inframind Season 4 | Contest With Code Explanation](https://www.youtube.com/watch?v=aSOlR5QYiiI)
-- [STRING COMPRESSION Algo + Code explained](https://www.youtube.com/watch?v=kOwRDMpQG1o)
 <!-- YOUTUBE:END -->
 
 ---
