@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Windows 11 Installation Complete Guide With Download Links !! Install Now](https://www.youtube.com/watch?v=MZADtchkNhA)
 - [Access the Deep Web Guide  2021 | Discover the hidden internet](https://www.youtube.com/watch?v=svhFZdZmymY)
 - [Linux commands : A Complete Basics Guide of Linux ( Crash Course )| For Interview and Self Learning](https://www.youtube.com/watch?v=pjLy7qN8USs)
 - [INSTALL PARROT OS IN VIRTUAL BOX LATEST VERSION | WITH GUEST ADDITIONS [For Full Screen]](https://www.youtube.com/watch?v=cxTlUWlTSCg)
 - [Best Programming Language For Placements |Python,Java,C/C++ ??@Clément Mihailescu](https://www.youtube.com/watch?v=U_B8quod7_Q)
-- [[Latest] Best websites to learn Cyber Security and Ethical Hacking for free | Best Free Resources](https://www.youtube.com/watch?v=E6_RydEvbxU)
 <!-- YOUTUBE:END -->
 
 ---
