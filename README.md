@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Everything About CryptoCurrency And Where To Buy Them | Understand Cryptocurrency](https://www.youtube.com/watch?v=qJloX6TBBx8)
 - [Display Real Time Data on Flask Web App | Display real time crypto price](https://www.youtube.com/watch?v=B15lnOwRsx0)
 - [Convert any Python File to .EXE and secure your Source Code | Secure Your Python Source Code](https://www.youtube.com/watch?v=hPJSD3MPcyw)
 - [Apple Products Unboxing And Review | (MacBook Air, Ipad Air , iPhone 12)](https://www.youtube.com/watch?v=lBIDECHQj98)
 - [Update From Windows 10 to Windows 11 Without Data Loss](https://www.youtube.com/watch?v=Dfdn9zwJu8o)
-- [Windows 11 Installation Complete Guide With Download Links !! Install Now](https://www.youtube.com/watch?v=MZADtchkNhA)
 <!-- YOUTUBE:END -->
 
 ---
