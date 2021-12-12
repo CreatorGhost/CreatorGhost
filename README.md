@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Run Your  Flask App In Google Colab | [ Updated Way ]](https://www.youtube.com/watch?v=7u0KBWlA-Dc)
 - [Everything About CryptoCurrency And Where To Buy Them | Understand Cryptocurrency](https://www.youtube.com/watch?v=qJloX6TBBx8)
 - [Display Real Time Data on Flask Web App | Display real time crypto price](https://www.youtube.com/watch?v=B15lnOwRsx0)
 - [Convert any Python File to .EXE and secure your Source Code | Secure Your Python Source Code](https://www.youtube.com/watch?v=hPJSD3MPcyw)
 - [Apple Products Unboxing And Review | &lpar;MacBook Air, Ipad Air , iPhone 12&rpar;](https://www.youtube.com/watch?v=lBIDECHQj98)
-- [Update From Windows 10 to Windows 11 Without Data Loss](https://www.youtube.com/watch?v=Dfdn9zwJu8o)
 <!-- YOUTUBE:END -->
 
 ---
