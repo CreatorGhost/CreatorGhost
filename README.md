@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Samsung 27&quot; M5 FHD Monitor Complete Review &amp; Unboxing](https://www.youtube.com/watch?v=rBqNDHFKE9s)
 - [[ Latest ] Docker Crash Course  | For Beginners](https://www.youtube.com/watch?v=FLvqAifyFcQ)
 - [NFTs Explained In Detail | Free NFT Giveaway](https://www.youtube.com/watch?v=woBMQCThJjo)
 - [Run Your  Flask App In Google Colab | [ Updated Way ]](https://www.youtube.com/watch?v=7u0KBWlA-Dc)
 - [Everything About CryptoCurrency And Where To Buy Them | Understand Cryptocurrency](https://www.youtube.com/watch?v=qJloX6TBBx8)
-- [Display Real Time Data on Flask Web App | Display real time crypto price](https://www.youtube.com/watch?v=B15lnOwRsx0)
 <!-- YOUTUBE:END -->
 
 ---
