@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Top 5 Best Platform to find REMOTE JOBS | Tech + Management](https://www.youtube.com/watch?v=ybPaw6yXtVU)
 - [Deploy/Host  Flask WebApp/Website on Heroku | [Update Way]](https://www.youtube.com/watch?v=pOrgkOfz5c4)
 - [Web Scraping with Python - A complete Guide With Project](https://www.youtube.com/watch?v=A2y-FoE-97g)
 - [Deploy Python Code From Anywhere to Heroku Cloud Under 15 Mins [ Updated Heroku Way ]](https://www.youtube.com/watch?v=XF6uCnpovnM)
 - [Multi Threading Tutorial Python : Explained With Code](https://www.youtube.com/watch?v=odJALCysf-s)
-- [Samsung 27&quot; M5 FHD Monitor Complete Review &amp; Unboxing](https://www.youtube.com/watch?v=rBqNDHFKE9s)
 <!-- YOUTUBE:END -->
 
 ---
