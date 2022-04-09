@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Send Emails Using Python - Plain Text, Adding Attachments, HTML Emails, and Much More | Updated](https://www.youtube.com/watch?v=YcrcE-7IXOw)
 - [Install Kali Linux On Macbooks M1 |  Free For  Lifetime](https://www.youtube.com/watch?v=_RFGV5ALkCw)
 - [Top 5 Best Platform to find REMOTE JOBS | Tech + Management](https://www.youtube.com/watch?v=ybPaw6yXtVU)
 - [Deploy/Host  Flask WebApp/Website on Heroku | [Update Way]](https://www.youtube.com/watch?v=pOrgkOfz5c4)
 - [Web Scraping with Python - A complete Guide With Project](https://www.youtube.com/watch?v=A2y-FoE-97g)
-- [Deploy Python Code From Anywhere to Heroku Cloud Under 15 Mins [ Updated Heroku Way ]](https://www.youtube.com/watch?v=XF6uCnpovnM)
 <!-- YOUTUBE:END -->
 
 ---
