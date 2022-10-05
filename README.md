@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Samsung Smart Monitor M7 |  2022Unboxing &amp; Quick review](https://www.youtube.com/watch?v=VP26GSIbDpo)
 - [Running Flask App  On Colab With Ngrok| [ Latest Way ]](https://www.youtube.com/watch?v=bHtxDiIl0wg)
 - [Buying MacBook Pro Offline [Lowest Possible Price] | Reliance Digital and UNI Store || Vlog](https://www.youtube.com/watch?v=JzDDaJGri2Q)
 - [Send Emails Using Python - Plain Text, Adding Attachments, HTML Emails, and Much More | Updated](https://www.youtube.com/watch?v=YcrcE-7IXOw)
 - [Install Kali Linux On Macbooks M1 |  Free For  Lifetime](https://www.youtube.com/watch?v=_RFGV5ALkCw)
-- [Top 5 Best Platform to find REMOTE JOBS | Tech + Management](https://www.youtube.com/watch?v=ybPaw6yXtVU)
 <!-- YOUTUBE:END -->
 
 ---
