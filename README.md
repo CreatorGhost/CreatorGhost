@@ -39,10 +39,10 @@ Linux           ██████████████████░░░�
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [[Updated Working Method] How To Send Emails With Tables Using Python](https://www.youtube.com/watch?v=KlI1hpKlylY)
-- [Samsung M7 Smart Monitor](https://www.youtube.com/watch?v=MlDrLvVM4A0)
 - [Ultimate Log Parsing Guide With Python | Extract  information and create a report](https://www.youtube.com/watch?v=ndoLTHtZX8Q)
 - [Samsung Smart Monitor M7 |  2022Unboxing &amp; Quick review](https://www.youtube.com/watch?v=VP26GSIbDpo)
 - [Running Flask App  On Colab With Ngrok| [ Latest Way ]](https://www.youtube.com/watch?v=bHtxDiIl0wg)
+- [Buying MacBook Pro Offline [Lowest Possible Price] | Reliance Digital and UNI Store || Vlog](https://www.youtube.com/watch?v=JzDDaJGri2Q)
 <!-- YOUTUBE:END -->
 
 ---
