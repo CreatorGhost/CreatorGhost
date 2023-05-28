@@ -1,10 +1,10 @@
 ### Hi there, I'm Aditya - aka [CreatorGhost][website] 👋 | You may also know me by [Cyber Creed][youtube] 😉
 
 ## I'm a Python Programmer,Data Scientist, Developer, and Teacher!
-- 🔭 I’m currently working on a [Complete Data Science Course]!
+- 🔭 I’m currently working on a [Learning Blockchain Technology]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects and Learn WEB3.
 - ⚡ Fun fact: I love to play chess and some computer games
 
 ### Connect with me:
