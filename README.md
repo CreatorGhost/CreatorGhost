@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How Does LangChain Work? OpenAI&#39;s Mind-Blowing Text-to-Vector Magic Revealed!](https://www.youtube.com/watch?v=yMEPjVoSO1w)
 - [Unleash Your Web3 Potential: The Ultimate Roadmap to Becoming a Successful Web3 Developer](https://www.youtube.com/watch?v=arQdG7V7Co8)
 - [AI-Powered Content Creation: Master ChatGPT &amp; Python Integration for Next-Level Blogging! 🌟](https://www.youtube.com/watch?v=mVHmsnZ-QbU)
 - [ChatGPT: The Secret Tool for Making Money as a Programmer](https://www.youtube.com/watch?v=6isviBODcL4)
 - [M1 MacBook Pro Unboxing: Truly Next Level!](https://www.youtube.com/watch?v=4j6kAeNeBoI)
-- [[Updated Working Method] How To Send Emails With Tables Using Python](https://www.youtube.com/watch?v=KlI1hpKlylY)
 <!-- YOUTUBE:END -->
 
 ---
