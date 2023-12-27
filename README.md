@@ -24,11 +24,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Master Python Sorting: How to Rank Objects with Custom Class Methods!](https://www.youtube.com/watch?v=g2WA4138hQo)
 - [Python Cloud Deployment for Free: Step-by-Step Tutorial](https://www.youtube.com/watch?v=fOmnPRt5tsE)
 - [LangChain Crash Course For Beginners | PDF Chat with LangChain](https://www.youtube.com/watch?v=8Z5HtdhdB1M)
 - [How Does LangChain Work? OpenAI&#39;s Mind-Blowing Text-to-Vector Magic Revealed!](https://www.youtube.com/watch?v=yMEPjVoSO1w)
 - [Unleash Your Web3 Potential: The Ultimate Roadmap to Becoming a Successful Web3 Developer](https://www.youtube.com/watch?v=arQdG7V7Co8)
-- [AI-Powered Content Creation: Master ChatGPT &amp; Python Integration for Next-Level Blogging! 🌟](https://www.youtube.com/watch?v=mVHmsnZ-QbU)
 <!-- YOUTUBE:END -->
 
 ---
