@@ -24,11 +24,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Unleash AI Anywhere: Discover How to Chat with Uncensored AI Without Web Limits](https://www.youtube.com/watch?v=jPxSD8cTTJg)
 - [Create a Jarvis-Style AI Assistant with Python &amp; OpenAI: Ultimate Voice-Controlled Bot Guide 🚀🤖](https://www.youtube.com/watch?v=6NjEUM8GCBc)
 - [Code Like a Pro: Elevate Your Cybersecurity &amp; Network Scanning with Open Interpreter!](https://www.youtube.com/watch?v=wiTUfpmj42M)
 - [Master Python Sorting: How to Rank Objects with Custom Class Methods!](https://www.youtube.com/watch?v=g2WA4138hQo)
 - [Python Cloud Deployment for Free: Step-by-Step Tutorial](https://www.youtube.com/watch?v=fOmnPRt5tsE)
-- [LangChain Crash Course For Beginners | PDF Chat with LangChain](https://www.youtube.com/watch?v=8Z5HtdhdB1M)
 <!-- YOUTUBE:END -->
 
 ---
