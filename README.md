@@ -24,11 +24,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Master Groq AI in Minutes: Comprehensive Setup Guide with LangChain and Function Calling](https://www.youtube.com/watch?v=Xi8L1fF5N9M)
 - [Mastering Anti-Phishing: Kali Linux Tools Tutorial #python #codeinterpreter #coding #codecoverage](https://www.youtube.com/watch?v=V2E8DHP0vTo)
 - [Python Log Parsing Simplified: Read, Parse, Output#codeinterpreter #python #codecoverage #coding #ai](https://www.youtube.com/watch?v=PIRMvWY5yho)
 - [Master Ethical Hacking with AI: Secret Tool Revealed for Cyber Security Pros!](https://www.youtube.com/watch?v=dj14kalKMzo)
 - [Unleash AI Anywhere: Discover How to Chat with Uncensored AI Without Web Limits](https://www.youtube.com/watch?v=jPxSD8cTTJg)
-- [Create a Jarvis-Style AI Assistant with Python &amp; OpenAI: Ultimate Voice-Controlled Bot Guide 🚀🤖](https://www.youtube.com/watch?v=6NjEUM8GCBc)
 <!-- YOUTUBE:END -->
 
 ---
