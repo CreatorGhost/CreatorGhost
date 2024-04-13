@@ -24,7 +24,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Master Groq AI in Minutes: Comprehensive Setup Guide with LangChain and Function Calling](https://www.youtube.com/watch?v=Xi8L1fF5N9M)
+- [Mastering Groq AI setup guide - with step-by-step instructions](https://www.youtube.com/watch?v=Xi8L1fF5N9M)
 - [Mastering Anti-Phishing: Kali Linux Tools Tutorial #python #codeinterpreter #coding #codecoverage](https://www.youtube.com/watch?v=V2E8DHP0vTo)
 - [Python Log Parsing Simplified: Read, Parse, Output#codeinterpreter #python #codecoverage #coding #ai](https://www.youtube.com/watch?v=PIRMvWY5yho)
 - [Master Ethical Hacking with AI: Secret Tool Revealed for Cyber Security Pros!](https://www.youtube.com/watch?v=dj14kalKMzo)
