@@ -24,11 +24,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [This Offline AI Trick Will Blow Your Mind! &lpar;Local LLMs&rpar;](https://www.youtube.com/watch?v=kTtvpWeZDtU)
 - [Google Gemini 1.5 Pro: Everything You NEED To Know](https://www.youtube.com/watch?v=CUhs5Fvrb_4)
 - [Mastering Groq AI setup guide - with step-by-step instructions](https://www.youtube.com/watch?v=Xi8L1fF5N9M)
 - [Mastering Anti-Phishing: Kali Linux Tools Tutorial #python #codeinterpreter #coding #codecoverage](https://www.youtube.com/watch?v=V2E8DHP0vTo)
 - [Python Log Parsing Simplified: Read, Parse, Output#codeinterpreter #python #codecoverage #coding #ai](https://www.youtube.com/watch?v=PIRMvWY5yho)
-- [Master Ethical Hacking with AI: Secret Tool Revealed for Cyber Security Pros!](https://www.youtube.com/watch?v=dj14kalKMzo)
 <!-- YOUTUBE:END -->
 
 ---
