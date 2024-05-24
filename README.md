@@ -24,11 +24,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Microsoft AI Event Recap: Exclusive GPT-4.0 Features, Copilot AI, and New Multimodal Capabilities!](https://www.youtube.com/watch?v=RJLHlVTibfs)
 - [Unlock GPT-4o&#39;s FREE Multimodal Power! 🔓 Python Image &amp; Audio AI](https://www.youtube.com/watch?v=1JUBxVPc5Mw)
 - [Creating an AI Image Similarity Engine in Python](https://www.youtube.com/watch?v=A5PF7OndIaA)
 - [Mastering LLAMA-3 Fine Tuning 🦙 | Custom Data](https://www.youtube.com/watch?v=twZMxi1rbNA)
 - [This Offline AI Trick Will Blow Your Mind! &lpar;Local LLMs&rpar;](https://www.youtube.com/watch?v=kTtvpWeZDtU)
-- [Google Gemini 1.5 Pro: Everything You NEED To Know](https://www.youtube.com/watch?v=CUhs5Fvrb_4)
 <!-- YOUTUBE:END -->
 
 ---
