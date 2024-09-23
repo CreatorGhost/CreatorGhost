@@ -35,7 +35,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying GPT: A Deep Dive into the Architecture of Modern AI](https://medium.com/@creatorghost/demystifying-gpt-a-deep-dive-into-the-architecture-of-modern-ai-5294260bb041?source=rss-71257e3bbfe------2)
+- [Demystifying GPT: A Deep Dive into the Architecture of Modern AI](https://medium.com/analytics-vidhya/demystifying-gpt-a-deep-dive-into-the-architecture-of-modern-ai-5294260bb041?source=rss-71257e3bbfe------2)
 - [Unveiling the Duplicity of AI: The Hidden Threat of Backdoor Behaviors in Language Models](https://medium.com/@creatorghost/unveiling-the-duplicity-of-ai-the-hidden-threat-of-backdoor-behaviors-in-language-models-b1fc3db8bd3c?source=rss-71257e3bbfe------2)
 - [Supercharging Your Terminal: The Sorcery of Zsh on macOS](https://medium.com/@creatorghost/supercharging-your-terminal-the-sorcery-of-zsh-on-macos-6342b8107baa?source=rss-71257e3bbfe------2)
 - [A Fresh, Fun Look at SOLID: The Five Commandments of OOP](https://medium.com/@creatorghost/a-fresh-fun-look-at-solid-the-five-commandments-of-oop-cbccf42a02c2?source=rss-71257e3bbfe------2)
