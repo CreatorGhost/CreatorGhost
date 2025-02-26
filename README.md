@@ -24,11 +24,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [AI Insanity This Week: Grock 3, GPT Upgrades, and the Robot Revolution](https://www.youtube.com/watch?v=53e_2qAJT70)
 - [Top Scientist Announces Breakthrough in Quantum Computing](https://www.youtube.com/watch?v=vmjwvj358Iw)
 - [Robots vs. Coders: The Epic 2025 Battle You Can’t Ignore!](https://www.youtube.com/watch?v=6hKFuFIH2wc)
 - [These AI Changes Will Shock Software Developers](https://www.youtube.com/watch?v=aBQk9snx-sY)
 - [WhatsApp Zero-Click Hack! Just Receiving a Message Can Hack Your Phone! #coding #programming](https://www.youtube.com/watch?v=hzO_4c9u6mQ)
-- [PicLabs Ai news](https://www.youtube.com/watch?v=wvjiajwDmv0)
 <!-- YOUTUBE:END -->
 
 ---
