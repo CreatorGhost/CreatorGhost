@@ -25,10 +25,10 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [GPT-4.5: Game Changer or Just Overhyped? 🤯](https://www.youtube.com/watch?v=GjjZcKot4Bc)
-- [AI Secrets Exposed: Is Your Chatbot Lying to You?!](https://www.youtube.com/watch?v=DuWuC7pmN9g)
 - [AI Insanity This Week: Grock 3, GPT Upgrades, and the Robot Revolution](https://www.youtube.com/watch?v=53e_2qAJT70)
 - [Top Scientist Announces Breakthrough in Quantum Computing](https://www.youtube.com/watch?v=vmjwvj358Iw)
 - [Robots vs. Coders: The Epic 2025 Battle You Can’t Ignore!](https://www.youtube.com/watch?v=6hKFuFIH2wc)
+- [These AI Changes Will Shock Software Developers](https://www.youtube.com/watch?v=aBQk9snx-sY)
 <!-- YOUTUBE:END -->
 
 ---
