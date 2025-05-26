@@ -24,11 +24,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [PostgreSQL MCP: AI Brain for Your Database! &lpar;Insane RAG Tools!&rpar;](https://www.youtube.com/watch?v=1JHBfXTrHuo)
 - [UV vs Pip: The Fastest Python Package Manager? | Full Guide](https://www.youtube.com/watch?v=sd8rkgKQRMA)
 - [Build a Model Context Protocol &lpar;MCP&rpar; Server with Python: Full Tutorial](https://www.youtube.com/watch?v=kzV-t63i8v4)
 - [Chain-of-Thought Models: The Greatest AI Illusion Since Self-Driving Cars](https://www.youtube.com/watch?v=LMw7r2KZLFw)
 - [Indirect Prompt Injection Exposed: The Hidden AI Vulnerability You Need to Know!](https://www.youtube.com/watch?v=_w_urh4TLy8)
-- [GPT-4.5: Game Changer or Just Overhyped? 🤯](https://www.youtube.com/watch?v=GjjZcKot4Bc)
 <!-- YOUTUBE:END -->
 
 ---
