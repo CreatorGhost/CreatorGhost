@@ -24,11 +24,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How Quantum Computing Will Break Every Password by 2030](https://www.youtube.com/watch?v=G5IKFpJdg58)
 - [How Spotify Knows What Song You Want Before You Do](https://www.youtube.com/watch?v=XCBFwjTwVp0)
 - [Games CPU intensive or GPU intensive](https://www.youtube.com/shorts/SKFJvidBnCE)
 - [The Day Half the Internet DIED What Really Happened](https://www.youtube.com/watch?v=q3sULuIsUQw)
 - [PostgreSQL MCP: AI Brain for Your Database! &lpar;Insane RAG Tools!&rpar;](https://www.youtube.com/watch?v=1JHBfXTrHuo)
-- [UV vs Pip: The Fastest Python Package Manager? | Full Guide](https://www.youtube.com/watch?v=sd8rkgKQRMA)
 <!-- YOUTUBE:END -->
 
 ---
