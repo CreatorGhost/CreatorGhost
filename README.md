@@ -24,11 +24,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Build SQL Agents That Actually Work &lpar;Uber&#39;s Method&rpar;](https://www.youtube.com/watch?v=tS7GtLRmPvE)
 - [Generative AI vs Agentic AI: The Future of Artificial Intelligence Explained](https://www.youtube.com/watch?v=TZOH62e0XzQ)
 - [How Quantum Computing Will Break Every Password by 2030](https://www.youtube.com/watch?v=G5IKFpJdg58)
 - [How Spotify Knows What Song You Want Before You Do](https://www.youtube.com/watch?v=XCBFwjTwVp0)
 - [Games CPU intensive or GPU intensive](https://www.youtube.com/shorts/SKFJvidBnCE)
-- [The Day Half the Internet DIED What Really Happened](https://www.youtube.com/watch?v=q3sULuIsUQw)
 <!-- YOUTUBE:END -->
 
 ---
