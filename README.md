@@ -24,11 +24,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Neuralink Restores Hearing + Meta&#39;s $300M AI Talent War | Latest Tech News](https://www.youtube.com/watch?v=serfVF2ZCks)
 - [Latest Tech News | Facebook Steals Your Photos + Google&#39;s 2GB AI Revolution](https://www.youtube.com/watch?v=NESNMptZWB4)
 - [Netflix&#39;s INSANE Long Term Recommendation System  How They Keep You Hooked for YEARS](https://www.youtube.com/watch?v=xYSbS2zgE2A)
 - [How to Build SQL Agents That Actually Work &lpar;Uber&#39;s Method&rpar;](https://www.youtube.com/watch?v=tS7GtLRmPvE)
 - [Generative AI vs Agentic AI: The Future of Artificial Intelligence Explained](https://www.youtube.com/watch?v=TZOH62e0XzQ)
-- [How Quantum Computing Will Break Every Password by 2030](https://www.youtube.com/watch?v=G5IKFpJdg58)
 <!-- YOUTUBE:END -->
 
 ---
