@@ -24,11 +24,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Why YouTube Never Runs Out of Storage But Your Phone Does](https://www.youtube.com/watch?v=8GGKduLZQzA)
 - [Piracy Is Back: How Streaming Made Us All Pirates &lpar;Again!&rpar;](https://www.youtube.com/watch?v=LF50kpGsVmw)
 - [Neuralink Restores Hearing + Meta&#39;s $300M AI Talent War | Latest Tech News](https://www.youtube.com/watch?v=serfVF2ZCks)
 - [Latest Tech News | Facebook Steals Your Photos + Google&#39;s 2GB AI Revolution](https://www.youtube.com/watch?v=NESNMptZWB4)
 - [Netflix&#39;s INSANE Long Term Recommendation System  How They Keep You Hooked for YEARS](https://www.youtube.com/watch?v=xYSbS2zgE2A)
-- [How to Build SQL Agents That Actually Work &lpar;Uber&#39;s Method&rpar;](https://www.youtube.com/watch?v=tS7GtLRmPvE)
 <!-- YOUTUBE:END -->
 
 ---
