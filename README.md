@@ -139,16 +139,15 @@ Creating in-depth technical content on AI, system design, and software engineeri
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CreatorGhost&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorGhost&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CreatorGhost&theme=github_dark)
 
-<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CreatorGhost&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CreatorGhost&theme=github_dark)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CreatorGhost&theme=radical&hide_border=true" alt="GitHub Streak" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CreatorGhost&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CreatorGhost&theme=github_dark)
 
-<br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=CreatorGhost&theme=dark)
 
-![Profile Views](https://komarev.com/ghpvc/?username=CreatorGhost&color=blueviolet&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=CreatorGhost&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
