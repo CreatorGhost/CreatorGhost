@@ -1,58 +1,115 @@
+# 👋 Aditya Pratap Singh | AI/ML Engineer & Full-Stack Developer
 
-### Hi there, I'm Aditya - aka [CreatorGhost][website] 👋 | You may also know me by [Cyber Creed][youtube] 😉
+> Building production-grade AI systems and scalable distributed architectures | Creator @ [Cyber Creed](https://www.youtube.com/cybercreed)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-p-s/) [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube)](https://www.youtube.com/cybercreed) [![Medium](https://img.shields.io/badge/Medium-Follow-000000?style=flat&logo=medium)](https://medium.com/@creatorghost) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=flat&logo=google-chrome)](https://creatorghost.com/)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adityapratap0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-p-s/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/cybercreed) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/crypto_adii) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=Medium&logoColor=white)](https://medium.com/@creatorghost) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/12541639/creatorghost)
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23593d88.svg?style=for-the-badge&logo=Solidity&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white) 
+AI/ML Engineer specializing in production-grade multi-agent systems, distributed architectures, and full-stack development. I build scalable AI solutions and share insights on AI, cybersecurity, and system design through my YouTube channel **Cyber Creed**.
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-%23231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white)
+**Current Focus:** Multi-agent RAG orchestration systems, LLM fine-tuning, and cloud-native architectures
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%2343853D.svg?style=for-the-badge&logo=BeautifulSoup&logoColor=white) ![Scrapy](https://img.shields.io/badge/Scrapy-%2314a853.svg?style=for-the-badge&logo=Scrapy&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-%24343A40.svg?style=for-the-badge&logo=Selenium&logoColor=green)
+## 💼 Core Expertise
 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  ![REST API](https://img.shields.io/badge/REST%20API-%236DB33F.svg?style=for-the-badge&logo=restapi)
+### 🤖 AI/ML & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
- 
- 
- 
+- Multi-agent RAG orchestration systems (A.I.Z.E.N, G.A.L.A.C.T.U.S)
+- Large Language Models (LLMs) fine-tuning and deployment
+- Computer Vision with OpenCV
+- Data processing with Pandas, NumPy, Scikit-learn
 
+### ⚙️ Backend & DevOps
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 
----
+- Microservices architecture and API design (REST, GraphQL)
+- Container orchestration and CI/CD pipelines
+- Cloud infrastructure (AWS, Azure, GCP)
+- Event-driven architectures with Kafka
 
-### 📺 Latest YouTube Videos
+### 🗄️ Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat&logo=database&logoColor=white)
+
+### 🔧 Additional Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+
+- Web scraping: Scrapy, Selenium, BeautifulSoup
+- Blockchain development (Ethereum, Solidity)
+- System design and distributed systems
+
+## 🎯 Featured Projects
+
+### 🧠 A.I.Z.E.N - Multi-Agent RAG Orchestration System
+Production-grade multi-agent system for intelligent document processing and retrieval-augmented generation. Implements advanced orchestration patterns for LLM coordination.
+
+**Tech Stack:** Python, LangChain, OpenAI, ChromaDB, FastAPI, Docker
+
+[📝 Read Article](https://medium.com/@creatorghost/building-a-i-z-e-n-a-production-multi-agent-rag-orchestration-system-9fa1af721b25)
+
+### 🌌 G.A.L.A.C.T.U.S - Scalable AI Infrastructure
+Distributed AI system architecture for handling large-scale machine learning workloads with high availability and fault tolerance.
+
+[📝 Read Article](https://medium.com/@creatorghost/g-a-l-a-c-t-u-s-73dbb80aba4e)
+
+## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Multithreading is a LIE &lpar;use this instead&rpar;](https://www.youtube.com/watch?v=TXAp3Tyv3M4)
-- [What Experts Are Hiding About AI&#39;s Future](https://www.youtube.com/watch?v=vKbn0Zhpeu8)
-- [Why Everyone&#39;s Wrong About AI Taking Over Coding](https://www.youtube.com/watch?v=3XoU9GnAEoI)
+- [Multithreading is a LIE (use this instead)](https://www.youtube.com/watch?v=TXAp3Tyv3M4)
+- [What Experts Are Hiding About AI's Future](https://www.youtube.com/watch?v=vKbn0Zhpeu8)
+- [Why Everyone's Wrong About AI Taking Over Coding](https://www.youtube.com/watch?v=3XoU9GnAEoI)
 - [Agentic AI: The shift from assistant to autonomous actor](https://www.youtube.com/watch?v=3cp55Y8l0jE)
 - [How Hackers Stole 560 Million Records with One Stupid Cloud Mistake](https://www.youtube.com/watch?v=LJH2kAyDh-M)
 <!-- YOUTUBE:END -->
 
----
+▶️ [**Subscribe for more AI & Tech content**](https://www.youtube.com/cybercreed?sub_confirmation=1)
 
-### 📕 Latest Blog Posts
+## ✍️ Recent Technical Writing
 <!-- BLOG-POST-LIST:START -->
-- [Building A.I.Z.E.N: A Production Multi-Agent RAG Orchestration System](https://medium.com/@creatorghost/building-a-i-z-e-n-a-production-multi-agent-rag-orchestration-system-9fa1af721b25?source=rss-71257e3bbfe------2)
-- [G.A.L.A.C.T.U.S:](https://medium.com/@creatorghost/g-a-l-a-c-t-u-s-73dbb80aba4e?source=rss-71257e3bbfe------2)
-- [Demystifying GPT: A Deep Dive into the Architecture of Modern AI](https://medium.com/analytics-vidhya/demystifying-gpt-a-deep-dive-into-the-architecture-of-modern-ai-5294260bb041?source=rss-71257e3bbfe------2)
-- [Unveiling the Duplicity of AI: The Hidden Threat of Backdoor Behaviors in Language Models](https://medium.com/@creatorghost/unveiling-the-duplicity-of-ai-the-hidden-threat-of-backdoor-behaviors-in-language-models-b1fc3db8bd3c?source=rss-71257e3bbfe------2)
-- [Supercharging Your Terminal: The Sorcery of Zsh on macOS](https://medium.com/@creatorghost/supercharging-your-terminal-the-sorcery-of-zsh-on-macos-6342b8107baa?source=rss-71257e3bbfe------2)
+- [Building A.I.Z.E.N: A Production Multi-Agent RAG Orchestration System](https://medium.com/@creatorghost/building-a-i-z-e-n-a-production-multi-agent-rag-orchestration-system-9fa1af721b25)
+- [G.A.L.A.C.T.U.S: Distributed AI Architecture](https://medium.com/@creatorghost/g-a-l-a-c-t-u-s-73dbb80aba4e)
+- [Demystifying GPT: A Deep Dive into the Architecture of Modern AI](https://medium.com/analytics-vidhya/demystifying-gpt-a-deep-dive-into-the-architecture-of-modern-ai-5294260bb041)
+- [Unveiling the Duplicity of AI: The Hidden Threat of Backdoor Behaviors in Language Models](https://medium.com/@creatorghost/unveiling-the-duplicity-of-ai-the-hidden-threat-of-backdoor-behaviors-in-language-models-b1fc3db8bd3c)
 <!-- BLOG-POST-LIST:END -->
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CreatorGhost&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorGhost&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on innovative AI/ML projects, discussing system design, or exploring new technologies.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/aditya-p-s/) - Professional networking
+- 📺 [YouTube - Cyber Creed](https://www.youtube.com/cybercreed) - AI, tech, and cybersecurity content
+- 📝 [Medium](https://medium.com/@creatorghost) - Technical articles and deep dives
+- 🌐 [Portfolio](https://creatorghost.com/) - Projects and case studies
+- 📧 Open to freelance and full-time opportunities
+
 ---
 
-<img align="left" alt="CreatorGhost's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CreatorGhost&show_icons=true&hide_border=true" />
-
-[website]: https://creatorghost.com/
-[twitter]: https://twitter.com/AdityaP11685274
-[youtube]: https://www.youtube.com/cybercreed
-[instagram]: https://www.instagram.com/adityapratap0/
-[linkedin]: https://www.linkedin.com/in/aditya-p-s/
-[DataSciencePlaylist]: https://www.youtube.com/playlist?list=PL_fmjj92uLQUbtOrOCRu8sISG7Ses3LNF
-[CompetitiveProgrammingPlaylist]: https://www.youtube.com/playlist?list=PL_fmjj92uLQW1T1iLeWRJfvC1dSMiGIUy
-[PythonPlaylist]: https://www.youtube.com/playlist?list=PL_fmjj92uLQUCidMh8OOE0UeLlS1xZmWD
-[CyberSecurityPlaylist]: https://www.youtube.com/playlist?list=PL_fmjj92uLQVZzapdvOwX5H9sDahaM06I
-[Complete Data Science Course]: https://www.youtube.com/playlist?list=PL_fmjj92uLQUbtOrOCRu8sISG7Ses3LNF
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/CreatorGhost">CreatorGhost</a> | Building the future with AI, one commit at a time</i>
+</p>
