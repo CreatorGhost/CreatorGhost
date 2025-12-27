@@ -139,13 +139,16 @@ Creating in-depth technical content on AI, system design, and software engineeri
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CreatorGhost&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CreatorGhost&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorGhost&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorGhost&layout=compact&theme=github_dark&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages)
+<br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CreatorGhost&theme=github-dark-blue&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CreatorGhost&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=CreatorGhost&color=blue&style=flat-square&label=Profile+Views)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=CreatorGhost&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
