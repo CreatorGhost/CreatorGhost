@@ -105,15 +105,12 @@ CI/CD:          GitHub Actions, GitLab CI, Jenkins
 I regularly write deep-dive technical articles on AI systems, distributed architectures, and software engineering:
 
 ### Recent Publications
-
-**[Demystifying GPT: A Deep Dive into the Architecture of Modern AI](https://medium.com/analytics-vidhya/demystifying-gpt-a-deep-dive-into-the-architecture-of-modern-ai-5294260bb041)**
-*Comprehensive breakdown of transformer architecture, attention mechanisms, and training methodologies*
-
-**[Unveiling the Duplicity of AI: Backdoor Behaviors in Language Models](https://medium.com/@creatorghost/unveiling-the-duplicity-of-ai-the-hidden-threat-of-backdoor-behaviors-in-language-models-b1fc3db8bd3c)**
-*Analysis of AI safety, adversarial attacks, and model security considerations*
-
-**[Building Production Multi-Agent RAG Systems](https://medium.com/@creatorghost/building-a-i-z-e-n-a-production-multi-agent-rag-orchestration-system-9fa1af721b25)**
-*Architecture patterns, scaling strategies, and real-world implementation insights*
+<!-- BLOG-POST-LIST:START -->
+- [Building A.I.Z.E.N: A Production Multi-Agent RAG Orchestration System](https://medium.com/@creatorghost/building-a-i-z-e-n-a-production-multi-agent-rag-orchestration-system-9fa1af721b25)
+- [G.A.L.A.C.T.U.S: Distributed AI Architecture](https://medium.com/@creatorghost/g-a-l-a-c-t-u-s-73dbb80aba4e)
+- [Demystifying GPT: A Deep Dive into the Architecture of Modern AI](https://medium.com/analytics-vidhya/demystifying-gpt-a-deep-dive-into-the-architecture-of-modern-ai-5294260bb041)
+- [Unveiling the Duplicity of AI: The Hidden Threat of Backdoor Behaviors in Language Models](https://medium.com/@creatorghost/unveiling-the-duplicity-of-ai-the-hidden-threat-of-backdoor-behaviors-in-language-models-b1fc3db8bd3c)
+<!-- BLOG-POST-LIST:END -->
 
 ▶️ [**Read all articles on Medium**](https://medium.com/@creatorghost)
 
@@ -124,10 +121,13 @@ I regularly write deep-dive technical articles on AI systems, distributed archit
 Creating in-depth technical content on AI, system design, and software engineering:
 
 **Recent Videos:**
-- [Multithreading is a LIE (use this instead)](https://www.youtube.com/watch?v=TXAp3Tyv3M4) - Async programming patterns
-- [What Experts Are Hiding About AI's Future](https://www.youtube.com/watch?v=vKbn0Zhpeu8) - AGI discourse analysis
-- [Agentic AI: From Assistant to Autonomous Actor](https://www.youtube.com/watch?v=3cp55Y8l0jE) - Multi-agent architectures
-- [560M Records Stolen: Cloud Security Deep Dive](https://www.youtube.com/watch?v=LJH2kAyDh-M) - Infrastructure security
+<!-- YOUTUBE:START -->
+- [Multithreading is a LIE (use this instead)](https://www.youtube.com/watch?v=TXAp3Tyv3M4)
+- [What Experts Are Hiding About AI's Future](https://www.youtube.com/watch?v=vKbn0Zhpeu8)
+- [Why Everyone's Wrong About AI Taking Over Coding](https://www.youtube.com/watch?v=3XoU9GnAEoI)
+- [Agentic AI: The shift from assistant to autonomous actor](https://www.youtube.com/watch?v=3cp55Y8l0jE)
+- [How Hackers Stole 560 Million Records with One Stupid Cloud Mistake](https://www.youtube.com/watch?v=LJH2kAyDh-M)
+<!-- YOUTUBE:END -->
 
 **Focus Areas:** AI/ML Systems • Distributed Architecture • Cybersecurity • System Design
 
