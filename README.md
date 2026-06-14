@@ -123,11 +123,11 @@ Creating in-depth technical content on AI, system design, and software engineeri
 
 **Recent Videos:**
 <!-- YOUTUBE:START -->
+- [This New AI Exploit Bypasses All Security!](https://www.youtube.com/watch?v=RdmNIsodGmg)
 - [Multithreading is a LIE &lpar;use this instead&rpar;](https://www.youtube.com/watch?v=TXAp3Tyv3M4)
 - [What Experts Are Hiding About AI&#39;s Future](https://www.youtube.com/watch?v=vKbn0Zhpeu8)
 - [Why Everyone&#39;s Wrong About AI Taking Over Coding](https://www.youtube.com/watch?v=3XoU9GnAEoI)
 - [Agentic AI: The shift from assistant to autonomous actor](https://www.youtube.com/watch?v=3cp55Y8l0jE)
-- [How Hackers Stole 560 Million Records with One Stupid Cloud Mistake](https://www.youtube.com/watch?v=LJH2kAyDh-M)
 <!-- YOUTUBE:END -->
 
 **Focus Areas:** AI/ML Systems • Distributed Architecture • Cybersecurity • System Design
