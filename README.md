@@ -123,11 +123,11 @@ Creating in-depth technical content on AI, system design, and software engineeri
 
 **Recent Videos:**
 <!-- YOUTUBE:START -->
+- [Denuvo&#39;s Fatal Flaw: When the Protector Becomes the Victim](https://www.youtube.com/watch?v=oPK8uAc1Qa0)
 - [OKF vs RAG: Why AI Agents Keep Failing Without It](https://www.youtube.com/watch?v=iiG_fK08dOo)
 - [This New AI Exploit Bypasses All Security!](https://www.youtube.com/watch?v=RdmNIsodGmg)
 - [Multithreading is a LIE &lpar;use this instead&rpar;](https://www.youtube.com/watch?v=TXAp3Tyv3M4)
 - [What Experts Are Hiding About AI&#39;s Future](https://www.youtube.com/watch?v=vKbn0Zhpeu8)
-- [Why Everyone&#39;s Wrong About AI Taking Over Coding](https://www.youtube.com/watch?v=3XoU9GnAEoI)
 <!-- YOUTUBE:END -->
 
 **Focus Areas:** AI/ML Systems • Distributed Architecture • Cybersecurity • System Design
