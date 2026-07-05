@@ -123,11 +123,11 @@ Creating in-depth technical content on AI, system design, and software engineeri
 
 **Recent Videos:**
 <!-- YOUTUBE:START -->
+- [MCP vs API: The Protocol Taking Over AI Agents](https://www.youtube.com/watch?v=wjup987SmQs)
 - [AI Jailbreaking Has Entered a Dangerous New Phase](https://www.youtube.com/watch?v=1AmKSahEmrI)
 - [FlashAttention, Speculative Decoding &amp; the Tricks That Made LLMs Fast](https://www.youtube.com/watch?v=iVxmp4cn9bY)
 - [Denuvo&#39;s Fatal Flaw: When the Protector Becomes the Victim](https://www.youtube.com/watch?v=oPK8uAc1Qa0)
 - [The Hidden RAG Problem That Breaks AI Agents &lpar;OKF&rpar;](https://www.youtube.com/watch?v=iiG_fK08dOo)
-- [This New AI Exploit Bypasses All Security!](https://www.youtube.com/watch?v=RdmNIsodGmg)
 <!-- YOUTUBE:END -->
 
 **Focus Areas:** AI/ML Systems • Distributed Architecture • Cybersecurity • System Design
