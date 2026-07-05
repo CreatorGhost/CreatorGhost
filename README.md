@@ -123,11 +123,11 @@ Creating in-depth technical content on AI, system design, and software engineeri
 
 **Recent Videos:**
 <!-- YOUTUBE:START -->
+- [AI Jailbreaking Has Entered a Dangerous New Phase](https://www.youtube.com/watch?v=1AmKSahEmrI)
 - [FlashAttention, Speculative Decoding &amp; the Tricks That Made LLMs Fast](https://www.youtube.com/watch?v=iVxmp4cn9bY)
 - [Denuvo&#39;s Fatal Flaw: When the Protector Becomes the Victim](https://www.youtube.com/watch?v=oPK8uAc1Qa0)
 - [Why AI Agents Fail Without OKF | RAG&#39;s Hidden Problem](https://www.youtube.com/watch?v=iiG_fK08dOo)
 - [This New AI Exploit Bypasses All Security!](https://www.youtube.com/watch?v=RdmNIsodGmg)
-- [Multithreading is a LIE &lpar;use this instead&rpar;](https://www.youtube.com/watch?v=TXAp3Tyv3M4)
 <!-- YOUTUBE:END -->
 
 **Focus Areas:** AI/ML Systems • Distributed Architecture • Cybersecurity • System Design
