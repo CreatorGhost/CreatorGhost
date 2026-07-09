@@ -123,11 +123,11 @@ Creating in-depth technical content on AI, system design, and software engineeri
 
 **Recent Videos:**
 <!-- YOUTUBE:START -->
+- [45% of AI Code Ships a Security Hole &lpar;And Nobody Reads It&rpar;](https://www.youtube.com/watch?v=tgefVQotJqc)
 - [The Infrastructure Problem With LLMsagent system explainer sfx](https://www.youtube.com/watch?v=fFlPpTwbbJU)
 - [You&#39;re Hosting Trillion-Parameter LLMs Wrong — Here&#39;s How DeepSeek Actually Does It](https://www.youtube.com/watch?v=ew0N5jUpd3k)
 - [MCP vs API: The Protocol Taking Over AI Agents](https://www.youtube.com/watch?v=wjup987SmQs)
 - [AI Jailbreaking Has Entered a Dangerous New Phase](https://www.youtube.com/watch?v=1AmKSahEmrI)
-- [FlashAttention, Speculative Decoding &amp; the Tricks That Made LLMs Fast](https://www.youtube.com/watch?v=iVxmp4cn9bY)
 <!-- YOUTUBE:END -->
 
 **Focus Areas:** AI/ML Systems • Distributed Architecture • Cybersecurity • System Design
