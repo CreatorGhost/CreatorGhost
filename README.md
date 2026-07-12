@@ -123,7 +123,7 @@ Creating in-depth technical content on AI, system design, and software engineeri
 
 **Recent Videos:**
 <!-- YOUTUBE:START -->
-- [Same AI Model. 10x Different Score. Here&#39;s Why. #Shorts](https://www.youtube.com/shorts/ac6ZyU9xcp4)
+- [Same AI Model. 10x Different Score. Here&#39;s Why. #shorts  #llm  #claude](https://www.youtube.com/shorts/ac6ZyU9xcp4)
 - [You&#39;re Obsessing Over the Wrong Thing in AI Coding](https://www.youtube.com/watch?v=b1BCnDX2zAk)
 - [This Is Your Brain on ChatGPT 🧠 #Shorts](https://www.youtube.com/shorts/WW1z04kK49Q)
 - [AI Is Making You Dumber — Here&#39;s the Proof &lpar;and the Fix&rpar;](https://www.youtube.com/watch?v=C9tKGem56E8)
