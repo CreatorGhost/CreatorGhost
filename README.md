@@ -123,11 +123,11 @@ Creating in-depth technical content on AI, system design, and software engineeri
 
 **Recent Videos:**
 <!-- YOUTUBE:START -->
+- [You&#39;re Obsessing Over the Wrong Thing in AI Coding](https://www.youtube.com/watch?v=b1BCnDX2zAk)
 - [This Is Your Brain on ChatGPT 🧠 #Shorts](https://www.youtube.com/shorts/WW1z04kK49Q)
 - [AI Is Making You Dumber — Here&#39;s the Proof &lpar;and the Fix&rpar;](https://www.youtube.com/watch?v=C9tKGem56E8)
 - [45% of AI Code Ships a Security Hole &lpar;And Nobody Reads It&rpar;](https://www.youtube.com/watch?v=tgefVQotJqc)
 - [The Infrastructure Problem With LLMsagent system explainer sfx](https://www.youtube.com/watch?v=fFlPpTwbbJU)
-- [You&#39;re Hosting Trillion-Parameter LLMs Wrong — Here&#39;s How DeepSeek Actually Does It](https://www.youtube.com/watch?v=ew0N5jUpd3k)
 <!-- YOUTUBE:END -->
 
 **Focus Areas:** AI/ML Systems • Distributed Architecture • Cybersecurity • System Design
