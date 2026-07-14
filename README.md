@@ -123,11 +123,11 @@ Creating in-depth technical content on AI, system design, and software engineeri
 
 **Recent Videos:**
 <!-- YOUTUBE:START -->
+- [Prompt Injection: The Unpatchable Flaw in Every AI Agent](https://www.youtube.com/watch?v=5Yp5UTmgwGg)
 - [The Advanced RAG Strategy Most Developers Skip](https://www.youtube.com/watch?v=IQxjrs4faYA)
 - [You Don&#39;t Need a Server Rack: The Real Win for Open AI](https://www.youtube.com/watch?v=zCGzFgn4InI)
 - [Same AI Model. 10x Different Score. Here&#39;s Why. #shorts  #llm  #claude](https://www.youtube.com/shorts/ac6ZyU9xcp4)
 - [You&#39;re Obsessing Over the Wrong Thing in AI Coding](https://www.youtube.com/watch?v=b1BCnDX2zAk)
-- [This Is Your Brain on ChatGPT 🧠 #Shorts](https://www.youtube.com/shorts/WW1z04kK49Q)
 <!-- YOUTUBE:END -->
 
 **Focus Areas:** AI/ML Systems • Distributed Architecture • Cybersecurity • System Design
