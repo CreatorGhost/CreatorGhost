@@ -123,11 +123,11 @@ Creating in-depth technical content on AI, system design, and software engineeri
 
 **Recent Videos:**
 <!-- YOUTUBE:START -->
+- [HTTP Just Got a NEW Method — and It&#39;s Already a Security Hole](https://www.youtube.com/watch?v=Daoyo67HUk8)
 - [Everyone uses POST wrong. QUERY fixes it. #shorts  #coding #programming #code #https](https://www.youtube.com/shorts/_KFblaf_vEY)
 - [MCP vs A2A: Two Protocols Everyone Is Using Wrong](https://www.youtube.com/watch?v=395Jw11OlTE)
 - [An Email Nobody Opened Stole Their Files 😳 #Shorts](https://www.youtube.com/shorts/S1NqrmBOHBY)
 - [Production-Ready RAG: Speed, Cost, and Accuracy Trade-offs](https://www.youtube.com/watch?v=Z43qO0Nh18Y)
-- [Prompt Injection: The Unpatchable Flaw in Every AI Agent](https://www.youtube.com/watch?v=5Yp5UTmgwGg)
 <!-- YOUTUBE:END -->
 
 **Focus Areas:** AI/ML Systems • Distributed Architecture • Cybersecurity • System Design
