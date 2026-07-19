@@ -123,11 +123,11 @@ Creating in-depth technical content on AI, system design, and software engineeri
 
 **Recent Videos:**
 <!-- YOUTUBE:START -->
+- [How to Chunk a PDF for RAG &lpar;Do This&rpar; #shorts](https://www.youtube.com/shorts/7Bf1amR6nI8)
 - [RAG Evaluation Explained — Why Your RAG Lies &lpar;and Who&#39;s to Blame&rpar;](https://www.youtube.com/watch?v=-yrww2SeRZ0)
 - [Advanced RAG Chunking: Every File Type &lpar;PDF, Excel, Audio, Video&rpar;](https://www.youtube.com/watch?v=pLgv-sXtRSY)
 - [HTTP Just Got a NEW Method — and It&#39;s Already a Security Hole](https://www.youtube.com/watch?v=Daoyo67HUk8)
 - [Everyone uses POST wrong. QUERY fixes it. #shorts  #coding #programming #code #https](https://www.youtube.com/shorts/_KFblaf_vEY)
-- [MCP vs A2A: Two Protocols Everyone Is Using Wrong](https://www.youtube.com/watch?v=395Jw11OlTE)
 <!-- YOUTUBE:END -->
 
 **Focus Areas:** AI/ML Systems • Distributed Architecture • Cybersecurity • System Design
