@@ -123,11 +123,11 @@ Creating in-depth technical content on AI, system design, and software engineeri
 
 **Recent Videos:**
 <!-- YOUTUBE:START -->
+- [Everyone Installs AI Skills. Almost Nobody Reads What&#39;s Inside.](https://www.youtube.com/watch?v=LBJpT6OcWYM)
 - [Everyone Is Switching to Caddy. They&#39;re Half Right.](https://www.youtube.com/watch?v=iIqVug5e2lY)
 - [How to Chunk a PDF for RAG &lpar;Do This&rpar; #shorts](https://www.youtube.com/shorts/7Bf1amR6nI8)
 - [RAG Evaluation Explained — Why Your RAG Lies &lpar;and Who&#39;s to Blame&rpar;](https://www.youtube.com/watch?v=-yrww2SeRZ0)
 - [Advanced RAG Chunking: Every File Type &lpar;PDF, Excel, Audio, Video&rpar;](https://www.youtube.com/watch?v=pLgv-sXtRSY)
-- [HTTP Just Got a NEW Method — and It&#39;s Already a Security Hole](https://www.youtube.com/watch?v=Daoyo67HUk8)
 <!-- YOUTUBE:END -->
 
 **Focus Areas:** AI/ML Systems • Distributed Architecture • Cybersecurity • System Design
