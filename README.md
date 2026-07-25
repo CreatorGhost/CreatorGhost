@@ -123,11 +123,11 @@ Creating in-depth technical content on AI, system design, and software engineeri
 
 **Recent Videos:**
 <!-- YOUTUBE:START -->
+- [A Free Chinese AI Just Made OpenAI Panic &lpar;It&#39;s Not Even #1&rpar; #shorts](https://www.youtube.com/shorts/58Bc-w67nC8)
 - [China&#39;s New Open Model Is OpenAI&#39;s Nightmare &lpar;Kimi K3&rpar;](https://www.youtube.com/watch?v=UTDhJ5yGgc4)
 - [The attacker had no rules. The defender had all of them. #shorts](https://www.youtube.com/shorts/_WNq-dI-zKw)
 - [Claude Refused to Analyse This Malware. A Local LLM Didn&#39;t.](https://www.youtube.com/watch?v=jfzExnGLja0)
 - [Everyone Installs AI Skills. Almost Nobody Reads What&#39;s Inside.](https://www.youtube.com/watch?v=LBJpT6OcWYM)
-- [Nginx vs Caddy in 2026: Why I Switched My Deployments](https://www.youtube.com/watch?v=iIqVug5e2lY)
 <!-- YOUTUBE:END -->
 
 **Focus Areas:** AI/ML Systems • Distributed Architecture • Cybersecurity • System Design
