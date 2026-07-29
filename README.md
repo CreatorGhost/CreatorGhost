@@ -123,11 +123,11 @@ Creating in-depth technical content on AI, system design, and software engineeri
 
 **Recent Videos:**
 <!-- YOUTUBE:START -->
+- [ChatGPT Keeps Refusing? 5 Local AI Models for Security #shorts](https://www.youtube.com/shorts/P35PUQVF364)
+- [Stop Downloading the Wrong Local LLM — 2026&#39;s Best for Every Job](https://www.youtube.com/watch?v=wk1PUVz7-AQ)
 - [How &quot;Username Already Taken&quot; Works at a Billion Users](https://www.youtube.com/watch?v=KybWokmDL3Q)
 - [The Security AI Agent OpenAI Refuses to Build &lpar;So I Built It Locally&rpar;](https://www.youtube.com/watch?v=R_dCcPiZPwk)
 - [The Best Local LLMs for Cybersecurity &lpar;ChatGPT Won&#39;t Touch This&rpar;](https://www.youtube.com/watch?v=kA7d-usj0u8)
-- [A Free Chinese AI Just Made OpenAI Panic &lpar;It&#39;s Not Even #1&rpar; #shorts](https://www.youtube.com/shorts/58Bc-w67nC8)
-- [China&#39;s New Open Model Is OpenAI&#39;s Nightmare &lpar;Kimi K3&rpar;](https://www.youtube.com/watch?v=UTDhJ5yGgc4)
 <!-- YOUTUBE:END -->
 
 **Focus Areas:** AI/ML Systems • Distributed Architecture • Cybersecurity • System Design
