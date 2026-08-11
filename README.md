@@ -21,6 +21,10 @@ AI/ML Engineer with expertise in building production-scale multi-agent systems, 
 
 **Current Focus:** Advanced LLM orchestration patterns, agentic AI systems, and distributed computing at scale.
 
+**Currently:** AI Engineer at Ascendion, delivering for Palo Alto Networks. Previously built an MCP-based intelligent database agent for Mashreq Bank (UAE) at Grey Chain AI.
+
+📍 Based in India · **Open to AI / GenAI engineering roles in the UAE** (Dubai / Abu Dhabi) — on-site, hybrid or remote.
+
 ---
 
 ## 🛠️ Technical Expertise
