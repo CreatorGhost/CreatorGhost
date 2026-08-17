@@ -127,11 +127,11 @@ Creating in-depth technical content on AI, system design, and software engineeri
 
 **Recent Videos:**
 <!-- YOUTUBE:START -->
+- [How a Fake File Turns Cursor Into a Silent Backdoor](https://www.youtube.com/watch?v=U4QYxgfIygg)
 - [MCP vs A2A Explained in 60 Seconds #Shorts](https://www.youtube.com/shorts/KFQMgSVzkqw)
 - [I Built a Tool That Blocks the npm Worm Before It Runs](https://www.youtube.com/watch?v=qzivbYlmFxg)
 - [MCP vs API: Why AI Agents Need MCP #Shorts](https://www.youtube.com/shorts/AOIq8JT334o)
 - [How Two Bugs Turn Langflow Into Instant Server Takeover](https://www.youtube.com/watch?v=knFm7rFpffQ)
-- [How a 284B AI Model Runs on a Laptop With No GPU](https://www.youtube.com/watch?v=c5tkjXLCmxw)
 <!-- YOUTUBE:END -->
 
 **Focus Areas:** AI/ML Systems • Distributed Architecture • Cybersecurity • System Design
