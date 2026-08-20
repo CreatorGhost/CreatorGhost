@@ -127,11 +127,11 @@ Creating in-depth technical content on AI, system design, and software engineeri
 
 **Recent Videos:**
 <!-- YOUTUBE:START -->
+- [I Put Claude Code on a Leash With Hooks &lpar;So It Can&#39;t Break Things&rpar;](https://www.youtube.com/watch?v=gptwDlZmXmk)
 - [Running LLMs Locally Is a Trap #Shorts](https://www.youtube.com/shorts/yH-HL7A7lsA)
 - [Claude Code Subagents: Build an AI Team That Reviews Its Own Code](https://www.youtube.com/watch?v=0GFAbjtAVcU)
 - [How Open Models Caught GPT &amp; Claude #Shorts](https://www.youtube.com/shorts/LlmasEM6X2k)
 - [AI Was Told It Was a Simulation. So It Hacked Real Companies.](https://www.youtube.com/watch?v=B4D8CXclXdY)
-- [Why LLMs Got 10-20x Faster &lpar;Same GPUs&rpar; #Shorts](https://www.youtube.com/shorts/xK_wEk1IBXk)
 <!-- YOUTUBE:END -->
 
 **Focus Areas:** AI/ML Systems • Distributed Architecture • Cybersecurity • System Design
