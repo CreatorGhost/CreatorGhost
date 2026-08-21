@@ -127,11 +127,11 @@ Creating in-depth technical content on AI, system design, and software engineeri
 
 **Recent Videos:**
 <!-- YOUTUBE:START -->
+- [The Cheapest AI Model Is a Trap #Shorts](https://www.youtube.com/shorts/z3uDjFBwhCY)
 - [You&#39;re Comparing AI Models Completely Wrong](https://www.youtube.com/watch?v=rpsNgbz5e3w)
 - [Your RAG Becomes a Liar at 10,000 Docs #Shorts](https://www.youtube.com/shorts/yqVeOpu2M8M)
 - [I Put Claude Code on a Leash With Hooks &lpar;So It Can&#39;t Break Things&rpar;](https://www.youtube.com/watch?v=gptwDlZmXmk)
 - [Running LLMs Locally Is a Trap #Shorts](https://www.youtube.com/shorts/yH-HL7A7lsA)
-- [Claude Code Subagents: Build an AI Team That Reviews Its Own Code](https://www.youtube.com/watch?v=0GFAbjtAVcU)
 <!-- YOUTUBE:END -->
 
 **Focus Areas:** AI/ML Systems • Distributed Architecture • Cybersecurity • System Design
