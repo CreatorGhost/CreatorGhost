@@ -127,11 +127,11 @@ Creating in-depth technical content on AI, system design, and software engineeri
 
 **Recent Videos:**
 <!-- YOUTUBE:START -->
+- [Your RAG Costs $12,000/Month — Fix It #Shorts](https://www.youtube.com/shorts/0g6cM-LMcro)
 - [Your Vector Database Doesn&#39;t Actually Find the Nearest Match](https://www.youtube.com/watch?v=bEgT9JtX3Dk)
 - [The Cheapest AI Model Is a Trap #Shorts](https://www.youtube.com/shorts/z3uDjFBwhCY)
 - [You&#39;re Comparing AI Models Completely Wrong](https://www.youtube.com/watch?v=rpsNgbz5e3w)
 - [Your RAG Becomes a Liar at 10,000 Docs #Shorts](https://www.youtube.com/shorts/yqVeOpu2M8M)
-- [I Put Claude Code on a Leash With Hooks &lpar;So It Can&#39;t Break Things&rpar;](https://www.youtube.com/watch?v=gptwDlZmXmk)
 <!-- YOUTUBE:END -->
 
 **Focus Areas:** AI/ML Systems • Distributed Architecture • Cybersecurity • System Design
