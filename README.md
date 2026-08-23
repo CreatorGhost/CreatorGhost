@@ -127,11 +127,11 @@ Creating in-depth technical content on AI, system design, and software engineeri
 
 **Recent Videos:**
 <!-- YOUTUBE:START -->
+- [Why Your RAG Gives Wrong Answers &lpar;5 Culprits&rpar; #Shorts](https://www.youtube.com/shorts/FYeLuFTqiPc)
 - [Why AI Chats Get Slower The Longer You Talk &lpar;KV Cache Explained&rpar;](https://www.youtube.com/watch?v=t0exIymdqjI)
 - [Your RAG Costs $12,000/Month — Fix It #Shorts](https://www.youtube.com/shorts/0g6cM-LMcro)
 - [Your Vector Database Doesn&#39;t Actually Find the Nearest Match](https://www.youtube.com/watch?v=bEgT9JtX3Dk)
 - [The Cheapest AI Model Is a Trap #Shorts](https://www.youtube.com/shorts/z3uDjFBwhCY)
-- [You&#39;re Comparing AI Models Completely Wrong](https://www.youtube.com/watch?v=rpsNgbz5e3w)
 <!-- YOUTUBE:END -->
 
 **Focus Areas:** AI/ML Systems • Distributed Architecture • Cybersecurity • System Design
